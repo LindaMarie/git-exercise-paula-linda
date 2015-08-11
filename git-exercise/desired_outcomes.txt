@@ -1,0 +1,6 @@
+- build a web app
+- build realistic prototypes
+- help navigate with a map
+- create messaging component
+- track location
+- (bonus) fancy images
